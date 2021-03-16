@@ -1,0 +1,33 @@
+<div class="msg-block">
+            	<h3>Kirill</h3>
+            	<time>11 Mar 2021</time>
+            	<p>Go play pubg mobile</p>
+        	</div><div class="msg-block">
+            	<h3>VladislavMaiski</h3>
+            	<time>11 Mar 2021</time>
+            	<p>hello, my name is vlad</p>
+        	</div><div class="msg-block">
+            	<h3>vladvladhi</h3>
+            	<time>11 Mar 2021</time>
+            	<p>hello brother</p>
+        	</div><div class="msg-block">
+            	<h3>vladvladhi</h3>
+            	<time>11 Mar 2021</time>
+            	<p>hello brother</p>
+        	</div><div class="msg-block">
+            	<h3>vladvladhi</h3>
+            	<time>11 Mar 2021</time>
+            	<p>hello brother</p>
+        	</div><div class="msg-block">
+            	<h3>vladvladhi</h3>
+            	<time>11 Mar 2021</time>
+            	<p>hello</p>
+        	</div><div class="msg-block">
+            	<h3>vladvladhi</h3>
+            	<time>11 Mar 2021</time>
+            	<p>hello</p>
+        	</div><div class="msg-block">
+            	<h3>vladhi</h3>
+            	<time>11 Mar 2021</time>
+            	<p></p>
+        	</div>
