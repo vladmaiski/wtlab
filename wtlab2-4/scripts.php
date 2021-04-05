@@ -24,8 +24,7 @@
         		$start = 1;
         		$isCorrrect = true;
         	}
-        		
-        		
+
         	while($start < strlen($num)) {
 			if(is_numeric($num[$start])) {
 				$sum += $num[$start];
